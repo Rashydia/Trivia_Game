@@ -2,9 +2,9 @@
 
 Submitted by: **Rashydia Blair**
 
-**Trivia** is an app that ... allows the user to answer three different questions given four answer choices. 
+**Trivia** is an app that ... is a game that gives a user three trivia questions each with four choices to answer with which to guess which answer choice is correct. 
 
-Time spent: ** about 10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -29,17 +29,25 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/a20d9508c38d4878aed7b8a549761ee2">
+    <a href="https://www.loom.com/share/c6e31ee512f84f0c927472bbb1a0163a">
     </a>
-    <a href="https://www.loom.com/share/a20d9508c38d4878aed7b8a549761ee2">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a20d9508c38d4878aed7b8a549761ee2-with-play.gif">
+    <a href="https://www.loom.com/share/c6e31ee512f84f0c927472bbb1a0163a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6e31ee512f84f0c927472bbb1a0163a-with-play.gif">
+    </a>
+  </div>
+  
+  
+<div>
+    <a href="https://www.loom.com/share/c46d6b67ad384b93a23bb1bf450f042d">
+    </a>
+    <a href="https://www.loom.com/share/c46d6b67ad384b93a23bb1bf450f042d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c46d6b67ad384b93a23bb1bf450f042d-with-play.gif">
     </a>
   </div>
 
 ## Notes
 
-Besides constantly restarting the project, when I was finally satisified, I had a disconnect in trying to connect the UIKit. I followed along with how the lab was instructed just for guidance but I didn't have any success.
-
+I had to restart this project multiple times. When I was able to get things rolling, my app began to crash and I could not figure out why. I also get stuck on the logic of the app. I was able to get to run a preview of the first view controller. However, after adding the other two view controllers, the simulator kept crashing. 
 ## License
 
     Copyright [2023] [Rashydia Blair]
